@@ -1,6 +1,4 @@
-# [CDV05] Build Your Portfolio MVP
-
-![alt text](portfolio.png)
+# [CDV05]  Simple Developer Portfolio Website
 
 CDV05 Project
 Objective
